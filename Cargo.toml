@@ -1,0 +1,7 @@
+[package]
+name = "Intro"
+version = "0.1.0"
+authors = ["denis <denis.keksel@protonmail.com>"]
+edition = "2018"
+
+[dependencies]
